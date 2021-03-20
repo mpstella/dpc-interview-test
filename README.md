@@ -15,7 +15,7 @@ d.	Any audit developer sees fit
 6.	Code is to be checked into GIT
 
 ### Notes:
-•	*The final artifacts required can either be Load Ready Datasets or a Table Extract
-•	You are expected to complete the task within 3 days
-•	You are expected to present your solution and methodology within a 1.5-hour period
+1.	*The final artifacts required can either be Load Ready Datasets or a Table Extract
+2.	You are expected to complete the task within 3 days
+3.	You are expected to present your solution and methodology within a 1.5-hour period
 
